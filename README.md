@@ -1,4 +1,4 @@
-### Hi there 👋
+### Loving kotlin, new world had been discovered by me <3 
 
 <!--
 **lucky1523/lucky1523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
